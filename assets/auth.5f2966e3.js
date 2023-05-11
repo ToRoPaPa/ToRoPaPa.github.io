@@ -1,0 +1,1 @@
+import{I as e}from"./index.55343708.js";const t=e("auth",{state:()=>({clientId:"8553baf8e8d84e2ebaaadce225fdeee8",redirectUri:"https://toropapa.github.io",code:"",code_verifier:"",access_token:"",refresh_token:"",user:{}}),getters:{},actions:{},persist:!0});var s=t;export{s as u};
